@@ -146,7 +146,8 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 *   **`windows/`**: Berisi file proyek khusus Windows.
 *   **`pubspec.yaml`**: File konfigurasi yang mendefinisikan dependensi proyek dan metadata.
 *   **`analysis_options.yaml`**: Konfigurasi untuk penganalisis Dart, menegakkan aturan dan gaya kode.
-
+  
+# **Tampilan Mobile**
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/ca6cfbb8-4143-48d9-ba54-8382c6bd273d" />
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/bde427fe-cbad-475d-894f-0763dfa06bf1" />
