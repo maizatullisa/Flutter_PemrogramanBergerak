@@ -1,4 +1,4 @@
-<img width="768" height="1376" alt="Gemini_Generated_Image_ovqd24ovqd24ovqd" src="https://github.com/user-attachments/assets/717635cd-73be-43bf-befd-8d7406f2539f" /># ✨ Relaksasi-Audio-App
+# ✨ Relaksasi-Audio-App
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
