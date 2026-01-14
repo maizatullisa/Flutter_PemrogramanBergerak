@@ -1,4 +1,4 @@
-# ✨ Relaksasi-Audio-App
+<img width="768" height="1376" alt="Gemini_Generated_Image_ovqd24ovqd24ovqd" src="https://github.com/user-attachments/assets/717635cd-73be-43bf-befd-8d7406f2539f" /># ✨ Relaksasi-Audio-App
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -147,6 +147,10 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 *   **`pubspec.yaml`**: File konfigurasi yang mendefinisikan dependensi proyek dan metadata.
 *   **`analysis_options.yaml`**: Konfigurasi untuk penganalisis Dart, menegakkan aturan dan gaya kode.
 
+# **UI/UX**
+# <img width="768" height="1376" alt="DESIGN1" src="https://github.com/user-attachments/assets/c5e1bf8c-d9a3-4a89-95ff-cfb4cd846246" />
+
+
 # **Tampilan Mobile**
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/ca6cfbb8-4143-48d9-ba54-8382c6bd273d" />
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
@@ -158,7 +162,7 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 # **Tampilan Mobile (Dark Mode)**
 ![Player Dark Mode](screenshots/flutter_04.png)
 
-# **Tampilan Desktop (Landing Page**
+# **Tampilan Desktop (Landing Page)**
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/426bc505-32b3-46d4-aa35-ecc125c15306" />
 
 # file structure
