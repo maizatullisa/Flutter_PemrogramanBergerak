@@ -148,8 +148,8 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 *   **`analysis_options.yaml`**: Konfigurasi untuk penganalisis Dart, menegakkan aturan dan gaya kode.
 
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/ca6cfbb8-4143-48d9-ba54-8382c6bd273d" />
-<img width="360" height="658" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
-<img width="368" height="656" alt="image" src="https://github.com/user-attachments/assets/bde427fe-cbad-475d-894f-0763dfa06bf1" />
+<img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
+<img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/bde427fe-cbad-475d-894f-0763dfa06bf1" />
 
 ![Home Screen](screenshots/flutter_02.png)
 ![Player Light Mode](screenshots/flutter_03.png)
