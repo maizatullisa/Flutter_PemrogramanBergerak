@@ -146,7 +146,7 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 *   **`windows/`**: Berisi file proyek khusus Windows.
 *   **`pubspec.yaml`**: File konfigurasi yang mendefinisikan dependensi proyek dan metadata.
 *   **`analysis_options.yaml`**: Konfigurasi untuk penganalisis Dart, menegakkan aturan dan gaya kode.
-  
+
 # **Tampilan Mobile**
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/ca6cfbb8-4143-48d9-ba54-8382c6bd273d" />
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
@@ -157,6 +157,9 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 ![Player Light Mode](screenshots/flutter_03.png)
 # **Tampilan Mobile (Dark Mode)**
 ![Player Dark Mode](screenshots/flutter_04.png)
+
+# **Tampilan Desktop (Landing Page**
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/426bc505-32b3-46d4-aa35-ecc125c15306" />
 
 # file structure
     1. In this project clean architecture is used.
