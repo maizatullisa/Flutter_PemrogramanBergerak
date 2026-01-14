@@ -152,7 +152,10 @@ Berikut adalah ikhtisar struktur direktori utama proyek:
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/7fd7cf5d-33c7-48b6-a10b-9f9cf3de2d58" />
 <img width="364" height="642" alt="image" src="https://github.com/user-attachments/assets/bde427fe-cbad-475d-894f-0763dfa06bf1" />
 
+
+# **Tampilan Mobile (Light Mode)**
 ![Player Light Mode](screenshots/flutter_03.png)
+# **Tampilan Mobile (Dark Mode)**
 ![Player Dark Mode](screenshots/flutter_04.png)
 
 # file structure
